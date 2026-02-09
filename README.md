@@ -60,3 +60,31 @@ mvn spring-boot:run
 Server starts at:
 
 http://localhost:8080
+
+🔐 API Endpoints
+Method	Endpoint	Description
+POST	/auth/register	Register new user
+POST	/auth/login	Login & get JWT token
+GET	/user	Access USER role
+GET	/admin	Access ADMIN role
+🧪 Default Roles
+
+ROLE_USER
+
+ROLE_ADMIN
+
+📌 Future Improvements
+
+Refresh Token
+
+Email Verification
+
+OAuth2 Login (Google/GitHub)
+
+Docker Support
+
+Swagger API Docs
+
+👨‍💻 Author
+
+Tapan Manna
