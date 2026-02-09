@@ -45,7 +45,7 @@ src/main/java/com/example/springsecurity
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spring-security-jwt-authentication.git
+git clone https://github.com/tapan2004/spring-security-jwt-authentication.git
 cd spring-security-jwt-authentication
 
 2. Configure Database
